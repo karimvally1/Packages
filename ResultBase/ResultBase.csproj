@@ -5,10 +5,12 @@
     <Authors>Karim Vally</Authors>
     <Copyright>Karim Vally</Copyright>
     <RepositoryType>GitHub</RepositoryType>
-    <PackageTags>ResultBase</PackageTags>
-    <PackageReleaseNotes>An implementation to wrap results and errors between layers.</PackageReleaseNotes>
+    <PackageTags>Result Wrapper</PackageTags>
+    <PackageReleaseNotes></PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Description>An implementation to wrap results and errors between layers.</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
