@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Karim Vally</Authors>
+    <Copyright>Karim Vally</Copyright>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>ResultBase</PackageTags>
+    <PackageReleaseNotes>An implementation to wrap results and errors between layers.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
