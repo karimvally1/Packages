@@ -1,7 +1,7 @@
 ﻿namespace Attribeaut.Constants
 {
-    internal static class ValidatonError
+    public static class ValidatonError
     {
-        public const string REQUIRED = "Required";
+        public const string Required = "Required";
     }
 }

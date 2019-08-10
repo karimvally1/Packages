@@ -7,7 +7,7 @@ namespace Attribeaut
     {
         public Required()
         {
-            ErrorMessage = ValidatonError.REQUIRED;
+            ErrorMessage = ValidatonError.Required;
         }
 
         public override bool IsValid(object value)
