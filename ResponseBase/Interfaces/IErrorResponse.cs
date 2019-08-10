@@ -1,10 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using ResponseBase.Models;
+using System.Collections.Generic;
 
 namespace ResponseBase.Interfaces
 {
     public interface IErrorResponse<T> : IResponse<T>
     {
-        Dictionary<string, string> Errors { get; set; }
+        IList<Error> Errors { get; set; }
         string Message { get; set; }
     }
 }
