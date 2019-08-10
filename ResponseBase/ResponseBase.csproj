@@ -10,6 +10,7 @@
     <Copyright>Karim Vally</Copyright>
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>Response Wrapper</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
